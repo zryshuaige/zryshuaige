@@ -23,4 +23,4 @@
 ## 📚 Currently Studying
 
 - Optimization for DeeplabV3+ in Semantic Segmentation
-- Pre-trained model(e.g. CLIP) guided self-supervied Learning in OVSS
+- Pre-trained model(e.g. CLIP) guided self-supervised Learning in OVSS
