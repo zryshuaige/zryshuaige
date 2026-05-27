@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Welcome-to%20my%20profile-2ea44f?style=for-the-badge" alt="welcome">
-  <img src="https://img.shields.io/badge/Focus-<Particle calculation&Decision>-0969da?style=for-the-badge" alt="focus">
+  <img src="https://img.shields.io/badge/Focus-<CV(OVSS)&Recommendation System>-0969da?style=for-the-badge" alt="focus">
   <img src="https://img.shields.io/badge/Status-<Studying&Intern>-6f42c1?style=for-the-badge" alt="status">
 </p>
 
@@ -23,5 +23,4 @@
 ## 📚 Currently Studying
 
 - Optimization for DeeplabV3+ in Semantic Segmentation
-
-![ZRY's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zryshuaige)
+- Pre-trained model(e.g. CLIP) guided self-supervied Learning in OVSS
