@@ -24,3 +24,5 @@
 
 - Optimization for DeeplabV3+ in Semantic Segmentation
 - Pre-trained model(e.g. CLIP) guided self-supervised Learning in OVSS
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zryshuaige)
