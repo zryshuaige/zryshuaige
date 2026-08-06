@@ -22,8 +22,7 @@
 
 ## 📚 Currently Studying
 
-- Optimization for DeeplabV3+ in Semantic Segmentation
-- Pre-trained model(e.g. CLIP) guided self-supervised Learning in OVSS
+- Supervied Fine Tuning for Pre-trained model(e.g. CLIP,BLIP) in multimodal understanding.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zryshuaige)](https://github.com/anuraghazra/github-readme-stats)
 
